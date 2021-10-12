@@ -113,7 +113,7 @@ numba==0.26.0
 numexpr==2.4.4
 numpy==1.13.1
 odo==0.5.0
-opencv-python==3.3.0.10
+opencv-python==3.4.7.28
 openpyxl==2.4.1
 ornlm==0.1
 pandas==0.17.1
