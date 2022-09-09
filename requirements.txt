@@ -93,7 +93,7 @@ lxml==3.7.3
 MarkupSafe==0.23
 matplotlib==1.4.3
 mintlabs==0.2.585
-mistune==0.7.3
+mistune==0.8.1
 mock==2.0.0
 mpi4py==2.0.0
 mpmath==0.19
